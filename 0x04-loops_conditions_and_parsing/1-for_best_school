@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
+# The script is displaying "Best School" 10 times
 
 count=10
-for i in count; do
-	echo "Best school"
-
+for i in $(seq 1 10);
+do
+	echo "Best School"
 done
