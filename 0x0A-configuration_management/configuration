@@ -1,0 +1,14 @@
+Process of systematically handling changes to a system in a way that it maintains integgrity over time. 
+
+Sample configuration management tools available in market:
+	- Puppet
+	- Ansible
+	- Chef
+	- Salt
+
+Benefits:
+- Quick provisioning of new servers
+- Quick Recovery from Critical Events
+- No More Snowflake SErvers - Eliminates the question on which changes were made, configuration tweaks, manua hotfixes, software updates - these which turn servers into snowflakes are eliminated with properly documented automating script/ procedures necessary fro bringing up new server or updating an existing one will be all documented in provisioning scripts
+- Version Control for the Server Environment - One has the ability to apply to the server environment many of the tools and workflows you normally use for software source code
+- Replicated Environments
