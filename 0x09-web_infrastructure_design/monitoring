@@ -1,0 +1,6 @@
+monitoring tools:
+	-NewRelic - uses NewRelic servers
+	-DataDog - measure and monitor everything with graphs
+	-Uptime Robot - check that your web is responding from multiple locations in the  whorld
+	-Nagios- Open source, outdated
+	-WaveFront Analyze everything that can produce data points, apply mathematical operations to these data points to extract values  or detect anomalies from the time series data.
