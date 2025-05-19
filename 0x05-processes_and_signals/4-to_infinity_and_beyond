@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # Bash script that displays To infinity and beyound indefinitely
 while true; do
 	echo "To infinity and beyond";
