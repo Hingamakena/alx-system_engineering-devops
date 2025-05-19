@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+ps -e  -o pid,cmd | grep "bash"
