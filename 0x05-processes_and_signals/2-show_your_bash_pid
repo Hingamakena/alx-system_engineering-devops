@@ -1,3 +1,4 @@
 #!/usr/bin/bash
+# display lines containing bash
 ps -Af | grep "bash"
 shellcheck disable=SC2009
