@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+if ! command -v netstat &>/dev/null; then
+	echo "netstat not found. installing netstat"
+	sudo apt install -y net-tools
+else
+	netstat -tuln
+fi
